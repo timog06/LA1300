@@ -28,6 +28,7 @@ In unserem Porjekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 8    |Kann             |Qualität  |Als Benutzer möchte ich, dass die Wasserfelder, die abgeschossen wurden, eine andere Farbe haben als die getroffenen Schiffe. |
 | 9    |Kann             |Qualität  |Als Benutzer möchte ich, dass die Schiffe nicht nebeneinander platziert werden können. |
 | 10   |Kann             |Qualität  |Als Benutzer möchte ich sehen, wie viele Spiele ich schon Gewonnen habe.|
+| 11   |Muss             |Rand      |Das Programm soll in C# geschrieben werden.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
