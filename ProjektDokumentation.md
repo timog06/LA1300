@@ -42,7 +42,7 @@ In unserem Porjekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 
 ### 1.4 Diagramme
 
-<img src="https://user-images.githubusercontent.com/110891995/203271630-1c8c3f88-946a-45c8-b49e-2981e2dcde5a.jpg" alt="drawing" width="50%"/>
+<img src="https://user-images.githubusercontent.com/110891995/203274456-490e96cd-e41f-4f27-b333-9d2a5852b24d.jpg" alt="drawing" width="50%"/>
 
 ## 2 Planen
 
