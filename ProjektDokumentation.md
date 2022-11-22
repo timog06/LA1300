@@ -42,7 +42,7 @@ In unserem Porjekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 
 ### 1.4 Diagramme
 
-[Hier](https://lucid.app/lucidchart/ba5813b5-2ae0-4348-b320-64b00a1646d4/edit?invitationId=inv_5986f90f-32d7-4d84-96e7-5d84ee6db891&page=0_0#) ist unser Use Case Diagramm.
+[Hier](Battleships.jpeg) ist unser Use Case Diagramm.
 
 ## 2 Planen
 
