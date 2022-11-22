@@ -26,9 +26,10 @@ In unserem Porjekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 6    |Muss             |Funktional|Als Programmierer möchte ich, dass das Programm nicht immer die gleiche Position der Schiffe einnimmt.|
 | 7    |Kann             |Qualität  |Als Benutzer möchte ich das Spiel wiederholen können.|
 | 8    |Kann             |Qualität  |Als Benutzer möchte ich, dass die Wasserfelder, die abgeschossen wurden, eine andere Farbe haben als die getroffenen Schiffe. |
-| 9    |Kann             |Qualität  |Als Benutzer möchte ich, dass die Schiffe nicht nebeneinander platziert werden können. |
+| 9    |Kann             |Qualität  |Als Benutzer möchte ich ein Punktesystem mit Highscore haben.|
 | 10   |Kann             |Qualität  |Als Benutzer möchte ich sehen, wie viele Spiele ich schon Gewonnen habe.|
-| 11   |Muss             |Rand      |Das Programm soll in C# geschrieben werden.|
+| 11   |Kann             |Qualität  |Als Benutzer möchte ich, dass das Programm schön aussieht.|
+| 12   |Muss             |Rand      |Das Programm soll in C# geschrieben werden.|
 
 ### 1.3 Testfälle
 
