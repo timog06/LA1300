@@ -23,7 +23,7 @@ In unserem Porjekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 3    |Muss             | Funktional| Als Programmierer möchte ich, dass falsche Eingaben abgefangen werden. |
 | 4    |Kann             | Qualität  | Als Benutzer möchte ich sehen, auf welche Felder ich schon geschossen habe.|
 | 5    |Muss             |Funktional |Als Benutzer möchte ich wissen, ob ich ein Schiff des Gegners getroffen habe.|
-| 6    |Kann             |Qualität   |Als Benutzer möchte ich meinem Gegner mitteilen können,wenn eines meiner Schiffe getroffen wurde.|
+| 6    |                 |      |                               |
 | 7    |                 |      |                                    |
 | 8    |                 |      |                                    |
 | 9    |                 |      |                                    |
