@@ -28,6 +28,10 @@ In unserem Porjekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 8    |Kann             |Qualität   |Als Benutzer möchte ich, dass die Wasserfelder, die abgeschossen wurden, eine andere Farbe haben als die getroffenen Schieffe. |
 | 9    |Kann             |Qualität   |Als Benutzer möchte ich, dass die Schiffe nicht nebeneinander platziert werden können. |
 | 10   |Kann             |Qualität   |Als Benutzer möchte ich sehen, wie viele Spiele ich schon Gewonnen habe.|
+| 11   |Muss             |Funktional |Als Benutzer will  ich sehen, ob ich ein Schiff zerstört habe.|
+| 11   |Muss             |Funktional |Als Benutzer will  ich sehen, ob ich ein Schiff zerstört habe.|
+| 11   |Muss             |Funktional |Als Benutzer möchte ich wissen, welche meiner Schiffe getroffen wurden und welche schon zerstört wurden.|
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
