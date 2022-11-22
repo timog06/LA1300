@@ -42,7 +42,7 @@ In unserem Porjekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 
 ### 1.4 Diagramme
 
-[Hier](Battleships.jpeg) ist unser Use Case Diagramm.
+![Hier](Battleships.png) ist unser Use Case Diagramm.
 
 ## 2 Planen
 
