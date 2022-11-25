@@ -12,7 +12,7 @@
 
 ### 1.1 Ihr Projekt
 
-In unserem Porjekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
+In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 
 ### 1.2 User Stories
 
@@ -35,9 +35,9 @@ In unserem Porjekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| 1.2  |              |         |                   |
-| 1.3  |              |         |                   |
+| 1.1  | Das Programm gibt ein Panel aus, welches einem das Spielfeld zeigt.|Start des Spiels|Erscheinung des Panels|
+| 1.2  | Das Programm zeigt die verschiedenen Schiffe die man anweisen kann.|Start der Postionsbestimmung eingeben|Anzeige der verschiedenen Schiffe|
+| 1.3  | Das Programm sagt mir dass ich die Positionen meiner Schiffe bestimmen sollte.|Eingabe Positionen meiner Schiffe|Anzeige der Schiffe auf dem Spielfeld|
 | 2.1  |              |         |                   |
 | 2.2  |              |         |                   |
 | 2.3  |              |         |                   |
@@ -47,7 +47,7 @@ In unserem Porjekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 4.1  |              |         |                   |
 | 4.2  |              |         |                   |
 | 4.3  |              |         |                   |
-| 5.1  |              |         |                   |
+| 5.1  | Ich habe auf einen bestimmten Punkt geschossen.|qqqqqqqqqqqqqqqqqddsa         |                   |
 | 5.2  |              |         |                   |
 | 5.3  |              |         |                   |
 | 6.1  |              |         |                   |
