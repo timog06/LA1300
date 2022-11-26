@@ -35,8 +35,8 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Das Programm gibt ein Panel aus, welches einem das Spielfeld zeigt.|Start des Spiels|Erscheinung des Panels|
-| 1.2  | Das Programm zeigt die verschiedenen Schiffe die man anweisen kann.|Start der Postionsbestimmung eingeben|Anzeige der verschiedenen Schiffe|
+| 1.1  | Programm gestartet|Start des Spiels|Erscheinung eines Fensters|
+| 1.2  | Das Programm zeigt die verschiedenen Schiffe die man anweisen kann.|Postionsbestimmung eingeben|Anzeige der Positionen der verschiedenen Schiffe|
 | 1.3  | Das Programm sagt mir dass ich die Positionen meiner Schiffe bestimmen sollte.|Eingabe Positionen meiner Schiffe|Anzeige der Schiffe auf dem Spielfeld|
 | 2.1  |              |         |                   |
 | 2.2  |              |         |                   |
@@ -47,9 +47,9 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 4.1  |              |         |                   |
 | 4.2  |              |         |                   |
 | 4.3  |              |         |                   |
-| 5.1  | Ich habe auf einen bestimmten Punkt geschossen.|qqqqqqqqqqqqqqqqqddsa         |                   |
-| 5.2  |              |         |                   |
-| 5.3  |              |         |                   |
+| 5.1  | Der Benutzer gibt einen Punkt an, an dem er schiesst.|Eingabe des Punktes|Anzeige der Position des angegeben Schusses|
+| 5.2  | Das Programm zeigt die Stelle an, an dem der Benutzer geschossen hat.|Eingabe des Punktes an die geschossen wird|Anzeige der Stelle|
+| 5.3  | Das Programm zeigt diese Stelle an und zeigt ob der Benutzer ein gegenerisches Schiff getroffen hat.|Eingabe des Punktes|Anzeige einer getroffenen/nicht getroffenen Stelle.|
 | 6.1  |              |         |                   |
 | 6.2  |              |         |                   |
 | 6.3  |              |         |                   |
