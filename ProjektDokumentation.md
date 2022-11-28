@@ -77,9 +77,9 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 1.A  |13.12.2022|T. Evans|                   |          |
 | 1.B  |13.12.2022|T. Evans|                   |          |
 | 1.C  |13.12.2022|T. Evans|                   |          |
-| 2.A  |13.12.2022|L. Lai  |                   |          |
-| 2.B  |13.12.2022|L. Lai  |                   |          |
-| 2.C  |13.12.2022|L. Lai  |                   |          |
+| 2.A  |06.11.2022|L. Lai  | Player Nr.2 "AI" sollte nicht dem gleichen Feld angreifen und wenn es das Schiff vermisst, soll es gezeigt werden. |   30' - 60'       |
+| 2.B  |06.11.2022|L. Lai  | Player Nr.2 "AI" sollte nicht dem gleichen Feld angreifen und wenn es ein Schiff trifft, sollte es gezeigt werden. |  30' - 60'        |
+| 2.C  |06.11.2022|L. Lai  | Player Nr.2 "AI" sollte nicht dem gleichen Feld angreifen und wenn es ein Schiff versenkt, sollte es gezeigt werden. | 30' - 60'         |
 | 3.A  |13.12.2022|A. Atputharasa| Fehlerhafte Eingaben beheben, ohne dass das Spiel abstürzt           | 30'         |
 | 3.B  |13.12.2022|A. Atputharasa| Fehlerhafte Eingaben beheben, ohne dass das Spiel abstürzt              | 30'         |
 | 3.C  |13.12.2022|A. Atputharasa| Fehlerhafte Eingaben beheben, ohne dass das Spiel abstürzt              | 30'         |
@@ -89,9 +89,9 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 5.A  |13.12.2022|T. Evans|                   |          |
 | 5.B  |13.12.2022|T. Evans|                   |          |
 | 5.C  |13.12.2022|T. Evans|                   |          |
-| 6.A  |13.12.2022|L. Lai  |                   |          |
-| 6.B  |13.12.2022|L. Lai  |                   |          |
-| 6.C  |13.12.2022|L. Lai  |                   |          |
+| 6.A  |06.11.2022|L. Lai  | Player Nr.2 "AI" muss die Schiffe immer wieder anders positionieren. | 30'         |
+| 6.B  |06.11.2022|L. Lai  | Player Nr.2 "AI" sollte seine Schiffe zufälligerweise positionieren. | 30'         |
+| 6.C  |06.11.2022|L. Lai  | Player Nr.2 "AI" sollte seine Schiffe zufälligerweise positionieren, sodass es nicht dasselbe wie vorher wird. | 30'       |
 | 7.A  |13.12.2022|A. Atputharasa| Eine Meldung geben, wenn der Benutzer verloren oder gewonnen hat          | 10'        |
 | 7.B  |13.12.2022|A. Atputharasa| Eine Runde starten, wenn der Benutezer es will              | 60'         |
 | 7.C  |13.12.2022|A. Atputharasa| Das Spiel beenden, wenn der Benutezer es will             |   60'       |
