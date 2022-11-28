@@ -26,7 +26,7 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 6    |Muss             |Funktional|Als Programmierer möchte ich, dass das Programm nicht immer die gleiche Position der Schiffe einnimmt.|
 | 7    |Kann             |Qualität  |Als Benutzer möchte ich das Spiel wiederholen können.|
 | 8    |Kann             |Qualität  |Als Benutzer möchte ich, dass die Wasserfelder, die abgeschossen wurden, eine andere Farbe haben als die getroffenen Schiffe. |
-| 9    |Kann             |Qualität  |Als Benutzer möchte ich ein Punktesystem mit Highscore haben.|
+| 9    |Kann             |Qualität  |Als Benutzer möchte ich ein Punktesystem haben.|
 | 10   |Kann             |Qualität  |Als Benutzer möchte ich sehen, wie viele Spiele ich schon Gewonnen habe.|
 | 11   |Kann             |Qualität  |Als Benutzer möchte ich, dass das Programm schön aussieht.|
 | 12   |Muss             |Rand      |Das Programm soll in C# geschrieben werden.|
@@ -59,12 +59,12 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 8.1  |              |         |                   |
 | 8.2  |              |         |                   |
 | 8.3  |              |         |                   |
-| 9.1  |              |         |                   |
-| 9.2  |              |         |                   |
-| 9.3  |              |         |                   |
-| 10.1 |              |         |                   |
-| 10.2 |              |         |                   |
-| 10.3 |              |         |                   |
+| 9.1  |Spiel wurde gestartet|Gegnerisches Schiff wurde getroffen|Punkte +100|
+| 9.2  |Spiel wurde gestartet|Gegnerisches Schiff wurde verfehlt|Punktestand verändert sich nicht|
+| 9.3  |Spiel wurde gestartet|Eigenes Schiff wurde Getroffen|Punkte -30|
+| 10.1 |Spiel wurde gestartet|Spiel wird gewonnen|History Log updated(+1 Win)|
+| 10.2 |Spiel wurde gestartet|Spiel wird verloren|History Log updated(+1 Lost)|
+| 10.3 |Spiel wurde gestartet|Spiel wurde geschlossen vor Abschluss|No Log changes|
 
 ### 1.4 Diagramme
 
