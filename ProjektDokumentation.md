@@ -80,9 +80,9 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 2.A  |06.11.2022|L. Lai  |                   |          |
 | 2.B  |06.11.2022|L. Lai  |                   |          |
 | 2.C  |06.11.2022|L. Lai  |                   |          |
-| 3.A  |06.11.2022|A. Atputharasa|             |          |
-| 3.B  |06.11.2022|A. Atputharasa|             |          |
-| 3.C  |06.11.2022|A. Atputharasa|             |          |
+| 3.A  |06.11.2022|A. Atputharasa| Fehlerhafte Eingaben beheben, ohne dass das Spiel abstürzt           | 30'         |
+| 3.B  |06.11.2022|A. Atputharasa| Fehlerhafte Eingaben beheben, ohne dass das Spiel abstürzt              | 30'         |
+| 3.C  |06.11.2022|A. Atputharasa| Fehlerhafte Eingaben beheben, ohne dass das Spiel abstürzt              | 30'         |
 | 4.A  |06.11.2022|R. Willi|                   |          |
 | 4.B  |06.11.2022|R. Willi|                   |          |
 | 4.C  |06.11.2022|R. Willi|                   |          |
@@ -92,9 +92,9 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 6.A  |06.11.2022|L. Lai  |                   |          |
 | 6.B  |06.11.2022|L. Lai  |                   |          |
 | 6.C  |06.11.2022|L. Lai  |                   |          |
-| 7.A  |06.11.2022|A. Atputharasa|             |          |
-| 7.B  |06.11.2022|A. Atputharasa|             |          |
-| 7.C  |06.11.2022|A. Atputharasa|             |          |
+| 7.A  |06.11.2022|A. Atputharasa| Eine Meldung geben, wenn der Benutzer verloren oder gewonnen hat          | 10'        |
+| 7.B  |06.11.2022|A. Atputharasa| Eine Runde starten, wenn der Benutezer es will              | 60'         |
+| 7.C  |06.11.2022|A. Atputharasa| Das Spiel beenden, wenn der Benutezer es will             |   60'       |
 | 8.A  |06.11.2022|R. Willi|                   |          |
 | 8.B  |06.11.2022|R. Willi|                   |          |
 | 8.C  |06.11.2022|R. Willi|                   |          |
