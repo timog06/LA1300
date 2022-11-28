@@ -98,19 +98,19 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 8.A  |06.11.2022|R. Willi|                   |          |
 | 8.B  |06.11.2022|R. Willi|                   |          |
 | 8.C  |06.11.2022|R. Willi|                   |          |
-| 9.A  |06.11.2022|T. Goedertier|              |         |
-| 9.B  |06.11.2022|T. Goedertier|              |         |
-| 9.C  |06.11.2022|T. Goedertier|              |         |
-| 10.A |06.11.2022|T. Goedertier|              |         |
-| 10.B |06.11.2022|T. Goedertier|              |         |
-| 10.C |06.11.2022|T. Goedertier|              |         |
+| 9.A  |06.11.2022|T. Goedertier|              |  90'     |
+| 9.B  |06.11.2022|T. Goedertier|              |  20'     |
+| 9.C  |06.11.2022|T. Goedertier|              |  60'     |
+| 10.A |06.11.2022|T. Goedertier|              |  120'     |
+| 10.B |06.11.2022|T. Goedertier|              |  75'     |
+| 10.C |06.11.2022|T. Goedertier|              |  30'     |
 
 Total: 
 Wir haben Total 30 Arbeitspakete.
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns schnell entschieden ein Schiffe versenken Spiel zu machen mit der Idee Spieler vs. KI. Um dem Spieler mehr Motivation zu geben haben wir uns auch für ein Punktesystem entschieden.
 
 ## 4 Realisieren
 
