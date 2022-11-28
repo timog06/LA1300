@@ -74,36 +74,36 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |06.11.2022|T. Evans|                   |          |
-| 1.B  |06.11.2022|T. Evans|                   |          |
-| 1.C  |06.11.2022|T. Evans|                   |          |
-| 2.A  |06.11.2022|L. Lai  |                   |          |
-| 2.B  |06.11.2022|L. Lai  |                   |          |
-| 2.C  |06.11.2022|L. Lai  |                   |          |
-| 3.A  |06.11.2022|A. Atputharasa| Fehlerhafte Eingaben beheben, ohne dass das Spiel abstürzt           | 30'         |
-| 3.B  |06.11.2022|A. Atputharasa| Fehlerhafte Eingaben beheben, ohne dass das Spiel abstürzt              | 30'         |
-| 3.C  |06.11.2022|A. Atputharasa| Fehlerhafte Eingaben beheben, ohne dass das Spiel abstürzt              | 30'         |
-| 4.A  |06.11.2022|R. Willi|                   |          |
-| 4.B  |06.11.2022|R. Willi|                   |          |
-| 4.C  |06.11.2022|R. Willi|                   |          |
-| 5.A  |06.11.2022|T. Evans|                   |          |
-| 5.B  |06.11.2022|T. Evans|                   |          |
-| 5.C  |06.11.2022|T. Evans|                   |          |
-| 6.A  |06.11.2022|L. Lai  |                   |          |
-| 6.B  |06.11.2022|L. Lai  |                   |          |
-| 6.C  |06.11.2022|L. Lai  |                   |          |
-| 7.A  |06.11.2022|A. Atputharasa| Eine Meldung geben, wenn der Benutzer verloren oder gewonnen hat          | 10'        |
-| 7.B  |06.11.2022|A. Atputharasa| Eine Runde starten, wenn der Benutezer es will              | 60'         |
-| 7.C  |06.11.2022|A. Atputharasa| Das Spiel beenden, wenn der Benutezer es will             |   60'       |
-| 8.A  |06.11.2022|R. Willi|                   |          |
-| 8.B  |06.11.2022|R. Willi|                   |          |
-| 8.C  |06.11.2022|R. Willi|                   |          |
-| 9.A  |06.11.2022|T. Goedertier|Punktesystem erstellen und Punkte addieren bei Treffer|90'|
-| 9.B  |06.11.2022|T. Goedertier|Keine veränderungen im Punktestand bei Fehlschüsse|20'|
-| 9.C  |06.11.2022|T. Goedertier|Punkte subtraktion bei Treffern vom Gegner|60'|
-| 10.A |06.11.2022|T. Goedertier|History Log erstellen und Win updates|120'|
-| 10.B |06.11.2022|T. Goedertier|Loose Updates im Log|75'|
-| 10.C |06.11.2022|T. Goedertier|Bei Crashes oder gewolltem schliessen vom Programm keine Log veränderungen|30'|
+| 1.A  |13.12.2022|T. Evans|                   |          |
+| 1.B  |13.12.2022|T. Evans|                   |          |
+| 1.C  |13.12.2022|T. Evans|                   |          |
+| 2.A  |13.12.2022|L. Lai  |                   |          |
+| 2.B  |13.12.2022|L. Lai  |                   |          |
+| 2.C  |13.12.2022|L. Lai  |                   |          |
+| 3.A  |13.12.2022|A. Atputharasa| Fehlerhafte Eingaben beheben, ohne dass das Spiel abstürzt           | 30'         |
+| 3.B  |13.12.2022|A. Atputharasa| Fehlerhafte Eingaben beheben, ohne dass das Spiel abstürzt              | 30'         |
+| 3.C  |13.12.2022|A. Atputharasa| Fehlerhafte Eingaben beheben, ohne dass das Spiel abstürzt              | 30'         |
+| 4.A  |13.12.2022|R. Willi|                   |          |
+| 4.B  |13.12.2022|R. Willi|                   |          |
+| 4.C  |13.12.2022|R. Willi|                   |          |
+| 5.A  |13.12.2022|T. Evans|                   |          |
+| 5.B  |13.12.2022|T. Evans|                   |          |
+| 5.C  |13.12.2022|T. Evans|                   |          |
+| 6.A  |13.12.2022|L. Lai  |                   |          |
+| 6.B  |13.12.2022|L. Lai  |                   |          |
+| 6.C  |13.12.2022|L. Lai  |                   |          |
+| 7.A  |13.12.2022|A. Atputharasa| Eine Meldung geben, wenn der Benutzer verloren oder gewonnen hat          | 10'        |
+| 7.B  |13.12.2022|A. Atputharasa| Eine Runde starten, wenn der Benutezer es will              | 60'         |
+| 7.C  |13.12.2022|A. Atputharasa| Das Spiel beenden, wenn der Benutezer es will             |   60'       |
+| 8.A  |13.12.2022|R. Willi|                   |          |
+| 8.B  |13.12.2022|R. Willi|                   |          |
+| 8.C  |13.12.2022|R. Willi|                   |          |
+| 9.A  |13.12.2022|T. Goedertier|Punktesystem erstellen und Punkte addieren bei Treffer|90'|
+| 9.B  |13.12.2022|T. Goedertier|Keine veränderungen im Punktestand bei Fehlschüsse|20'|
+| 9.C  |13.12.2022|T. Goedertier|Punkte subtraktion bei Treffern vom Gegner|60'|
+| 10.A |13.12.2022|T. Goedertier|History Log erstellen und Win updates|120'|
+| 10.B |13.12.2022|T. Goedertier|Loose Updates im Log|75'|
+| 10.C |13.12.2022|T. Goedertier|Bei Crashes oder gewolltem schliessen vom Programm keine Log veränderungen|30'|
 
 Total: 
 Wir haben Total 30 Arbeitspakete.
