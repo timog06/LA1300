@@ -41,9 +41,9 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 2.1  | Spieler Nr.2 "AI" wählt ein Feld             | C4        |  Kein Schiff wurde getroffen.                 |
 | 2.2  | Spieler Nr.2 "AI" wählt ein Feld            |  A2       | Ein Schiff wurde getroffen.                  |
 | 2.3  | Spieler Nr.2 "AI" wählt ein Feld             |    B3     |  Ein Schiff wurde versenkt.                 |
-| 3.1  |              |         |                   |
-| 3.2  |              |         |                   |
-| 3.3  |              |         |                   |
+| 3.1  | Spieler wählt ein Feld            |  YZ       |   Dieses Feld existiert nicht. Geben Sie ein Feld ein, welches existiert.               |
+| 3.2  | Spieler bestimmt die Position seiner Schiffe | Setzt die Schiffe ausserhalb des Spielfelds | Setzen Sie die Schiffe innerhalbs des Feldes                   |
+| 3.3  | Spieler will das Spiel wiederholen           | hdfuhdsfuihaih        | Geben Sie Ja oder Nein ein                  |
 | 4.1  |              |         |                   |
 | 4.2  |              |         |                   |
 | 4.3  |              |         |                   |
@@ -53,9 +53,9 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 6.1  | Spieler Nr.2 "AI" positioniert seine Schiffe             | ...        | Schiffe sind positioniert worden und Spieler Nr.1 kann diese nicht sehen.                  |
 | 6.2  | Spieler Nr.2 "AI" positioniert seine Schiffe             | ...        | Schiffe werden zufällig positioniert und Spieler Nr.1 kann diese nicht sehen.        |         
 | 6.3  | Spieler Nr.2 "AI" positioniert seine Schiffe             | ...        | Schiffe werden zufällig positioniert (nicht gleich wie vorher) und Spieler Nr.1 kann diese nicht sehen.                  |
-| 7.1  |              |         |                   |
-| 7.2  |              |         |                   |
-| 7.3  |              |         |                   |
+| 7.1  | Der Spieler hat das Spiel gewonnen/verloren             |  Enter       | Möchten Sie das Spiel wiederholen?                  |
+| 7.2  | Möchten Sie das Spiel wiederholen?              |  Ja       |  Eine neue Runde beginnnt                 |
+| 7.3  | Möchten Sie das Spiel wiederholen?             |  Nein       | Dieses Programm wird beemdet                  |
 | 8.1  |              |         |                   |
 | 8.2  |              |         |                   |
 | 8.3  |              |         |                   |
