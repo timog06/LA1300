@@ -44,9 +44,9 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 3.1  | Spieler wählt ein Feld            |  YZ       |   Dieses Feld existiert nicht. Geben Sie ein Feld ein, welches existiert.               |
 | 3.2  | Spieler bestimmt die Position seiner Schiffe | Setzt die Schiffe ausserhalb des Spielfelds | Setzen Sie die Schiffe innerhalbs des Feldes                   |
 | 3.3  | Spieler will das Spiel wiederholen           | hdfuhdsfuihaih        | Geben Sie Ja oder Nein ein                  |
-| 4.1  |              |         |                   |
-| 4.2  |              |         |                   |
-| 4.3  |              |         |                   |
+| 4.1  |Spiel ist gestartet | B3     | Feld wird abgekreuzt     |
+| 4.2  |Felder B3 & C2 sind bereits abgeschossen     |  C1       |  C1, B3 und C2 sind abgekrezt  |
+| 4.3  | Felder B3 & C2 sind bereits abgeschossen  |   B3      | Hinweis dieses Feld wurde bereits abgeschossen. |
 | 5.1  | Der Benutzer gibt einen Punkt an, an dem er schiesst.|Eingabe des Punktes|Anzeige der Position des angegeben Schusses.|
 | 5.2  | Das Programm zeigt die Stelle an, an dem der Benutzer geschossen hat.|Eingabe des Punktes an die geschossen wird|Anzeige der Stelle.|
 | 5.3  | Das Programm zeigt diese Stelle an und zeigt ob der Benutzer ein gegenerisches Schiff getroffen hat.|Eingabe des Punktes|Anzeige einer getroffenen/nicht getroffenen. Stelle.|
@@ -56,9 +56,9 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 7.1  | Der Spieler hat das Spiel gewonnen/verloren             |  Enter       | Möchten Sie das Spiel wiederholen?                  |
 | 7.2  | Möchten Sie das Spiel wiederholen?              |  Ja       |  Eine neue Runde beginnnt                 |
 | 7.3  | Möchten Sie das Spiel wiederholen?             |  Nein       | Dieses Programm wird beemdet                  |
-| 8.1  |              |         |                   |
-| 8.2  |              |         |                   |
-| 8.3  |              |         |                   |
+| 8.1  | Spiel gestartet         |   B3      |  Feld wird blau (Wasser)            |
+| 8.2  | B3 bereits beschossen  | C2        |  Feld wird grün (Schiff getroffen)      |
+| 8.3  | B3 & C2 beschossen     |      C1    |   Feld wird rot( Schiff versenkt)        |
 | 9.1  |Spiel wurde gestartet|Gegnerisches Schiff wurde getroffen|Punkte +100|
 | 9.2  |Spiel wurde gestartet|Gegnerisches Schiff wurde verfehlt|Punktestand verändert sich nicht|
 | 9.3  |Spiel wurde gestartet|Eigenes Schiff wurde Getroffen|Punkte -30|
