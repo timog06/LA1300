@@ -44,9 +44,9 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 3.1  |              |         |                   |
 | 3.2  |              |         |                   |
 | 3.3  |              |         |                   |
-| 4.1  |              |         |                   |
-| 4.2  |              |         |                   |
-| 4.3  |              |         |                   |
+| 4.1  |Spiel ist gestartet | B3     | Feld wird abgekreuzt     |
+| 4.2  |Felder B3 & C2 sind bereits abgeschossen     |  C1       |  C1, B3 und C2 sind abgekrezt  |
+| 4.3  | Felder B3 & C2 sind bereits abgeschossen  |   B3      | Hinweis dieses Feld wurde bereits abgeschossen. |
 | 5.1  | Der Benutzer gibt einen Punkt an, an dem er schiesst.|Eingabe des Punktes|Anzeige der Position des angegeben Schusses.|
 | 5.2  | Das Programm zeigt die Stelle an, an dem der Benutzer geschossen hat.|Eingabe des Punktes an die geschossen wird|Anzeige der Stelle.|
 | 5.3  | Das Programm zeigt diese Stelle an und zeigt ob der Benutzer ein gegenerisches Schiff getroffen hat.|Eingabe des Punktes|Anzeige einer getroffenen/nicht getroffenen. Stelle.|
@@ -56,9 +56,9 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 7.1  |              |         |                   |
 | 7.2  |              |         |                   |
 | 7.3  |              |         |                   |
-| 8.1  |              |         |                   |
-| 8.2  |              |         |                   |
-| 8.3  |              |         |                   |
+| 8.1  |Spiel gestartet         |   B3      |  Feld wird blau (Wasser)            |
+| 8.2  | B3 bereits beschossen  | C2        |  Feld wird grün (Schiff getroffen)      |
+| 8.3  | B3 & C2 beschossen     |      C1    |   Feld wird rot( Schiff versenkt)        |
 | 9.1  |Spiel wurde gestartet|Gegnerisches Schiff wurde getroffen|Punkte +100|
 | 9.2  |Spiel wurde gestartet|Gegnerisches Schiff wurde verfehlt|Punktestand verändert sich nicht|
 | 9.3  |Spiel wurde gestartet|Eigenes Schiff wurde Getroffen|Punkte -30|
@@ -83,9 +83,9 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 3.A  |06.11.2022|A. Atputharasa|             |          |
 | 3.B  |06.11.2022|A. Atputharasa|             |          |
 | 3.C  |06.11.2022|A. Atputharasa|             |          |
-| 4.A  |06.11.2022|R. Willi|                   |          |
-| 4.B  |06.11.2022|R. Willi|                   |          |
-| 4.C  |06.11.2022|R. Willi|                   |          |
+| 4.A  |06.11.2022|R. Willi|                   |  60 min  |
+| 4.B  |06.11.2022|R. Willi|                   |  45 min  |
+| 4.C  |06.11.2022|R. Willi|                   |  60 min  |
 | 5.A  |06.11.2022|T. Evans|                   |          |
 | 5.B  |06.11.2022|T. Evans|                   |          |
 | 5.C  |06.11.2022|T. Evans|                   |          |
@@ -95,9 +95,9 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 7.A  |06.11.2022|A. Atputharasa|             |          |
 | 7.B  |06.11.2022|A. Atputharasa|             |          |
 | 7.C  |06.11.2022|A. Atputharasa|             |          |
-| 8.A  |06.11.2022|R. Willi|                   |          |
-| 8.B  |06.11.2022|R. Willi|                   |          |
-| 8.C  |06.11.2022|R. Willi|                   |          |
+| 8.A  |06.11.2022|R. Willi|                   | 45 min   |
+| 8.B  |06.11.2022|R. Willi|                   | 45 min   |
+| 8.C  |06.11.2022|R. Willi|                   | 60 min   |
 | 9.A  |06.11.2022|T. Goedertier|              |         |
 | 9.B  |06.11.2022|T. Goedertier|              |         |
 | 9.C  |06.11.2022|T. Goedertier|              |         |
