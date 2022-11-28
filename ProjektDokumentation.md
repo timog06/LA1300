@@ -98,12 +98,12 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 8.A  |06.11.2022|R. Willi|                   |          |
 | 8.B  |06.11.2022|R. Willi|                   |          |
 | 8.C  |06.11.2022|R. Willi|                   |          |
-| 9.A  |06.11.2022|T. Goedertier|              |  90'     |
-| 9.B  |06.11.2022|T. Goedertier|              |  20'     |
-| 9.C  |06.11.2022|T. Goedertier|              |  60'     |
-| 10.A |06.11.2022|T. Goedertier|              |  120'     |
-| 10.B |06.11.2022|T. Goedertier|              |  75'     |
-| 10.C |06.11.2022|T. Goedertier|              |  30'     |
+| 9.A  |06.11.2022|T. Goedertier|Punktesystem erstellen und Punkte addieren bei Treffer|90'|
+| 9.B  |06.11.2022|T. Goedertier|Keine veränderungen im Punktestand bei Fehlschüsse|20'|
+| 9.C  |06.11.2022|T. Goedertier|Punkte subtraktion bei Treffern vom Gegner|60'|
+| 10.A |06.11.2022|T. Goedertier|History Log erstellen und Win updates|120'|
+| 10.B |06.11.2022|T. Goedertier|Loose Updates im Log|75'|
+| 10.C |06.11.2022|T. Goedertier|Bei Crashes oder gewolltem schliessen vom Programm keine Log veränderungen|30'|
 
 Total: 
 Wir haben Total 30 Arbeitspakete.
