@@ -35,24 +35,24 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Programm gestartet|Start des Spiels|Erscheinung eines Fensters|
-| 1.2  | Das Programm zeigt die verschiedenen Schiffe die man anweisen kann.|Postionsbestimmung eingeben|Anzeige der Positionen der verschiedenen Schiffe|
-| 1.3  | Das Programm sagt mir dass ich die Positionen meiner Schiffe bestimmen sollte.|Eingabe Positionen meiner Schiffe|Anzeige der Schiffe auf dem Spielfeld|
-| 2.1  |              |         |                   |
-| 2.2  |              |         |                   |
-| 2.3  |              |         |                   |
+| 1.1  | Programm gestartet|Start des Spiels|Erscheinung eines Fensters.|
+| 1.2  | Das Programm zeigt die verschiedenen Schiffe die man anweisen kann.|Postionsbestimmung eingeben|Anzeige der Positionen der verschiedenen Schiffe.|
+| 1.3  | Das Programm sagt mir dass ich die Positionen meiner Schiffe bestimmen sollte.|Eingabe Positionen meiner Schiffe|Anzeige der Schiffe auf dem Spielfeld.|
+| 2.1  | Spieler Nr.2 "AI" wählt ein Feld             | C4        |  Kein Schiff wurde getroffen.                 |
+| 2.2  | Spieler Nr.2 "AI" wählt ein Feld            |  A2       | Ein Schiff wurde getroffen.                  |
+| 2.3  | Spieler Nr.2 "AI" wählt ein Feld             |    B3     |  Ein Schiff wurde versenkt.                 |
 | 3.1  |              |         |                   |
 | 3.2  |              |         |                   |
 | 3.3  |              |         |                   |
 | 4.1  |              |         |                   |
 | 4.2  |              |         |                   |
 | 4.3  |              |         |                   |
-| 5.1  | Der Benutzer gibt einen Punkt an, an dem er schiesst.|Eingabe des Punktes|Anzeige der Position des angegeben Schusses|
-| 5.2  | Das Programm zeigt die Stelle an, an dem der Benutzer geschossen hat.|Eingabe des Punktes an die geschossen wird|Anzeige der Stelle|
-| 5.3  | Das Programm zeigt diese Stelle an und zeigt ob der Benutzer ein gegenerisches Schiff getroffen hat.|Eingabe des Punktes|Anzeige einer getroffenen/nicht getroffenen Stelle.|
-| 6.1  |              |         |                   |
-| 6.2  |              |         |                   |
-| 6.3  |              |         |                   |
+| 5.1  | Der Benutzer gibt einen Punkt an, an dem er schiesst.|Eingabe des Punktes|Anzeige der Position des angegeben Schusses.|
+| 5.2  | Das Programm zeigt die Stelle an, an dem der Benutzer geschossen hat.|Eingabe des Punktes an die geschossen wird|Anzeige der Stelle.|
+| 5.3  | Das Programm zeigt diese Stelle an und zeigt ob der Benutzer ein gegenerisches Schiff getroffen hat.|Eingabe des Punktes|Anzeige einer getroffenen/nicht getroffenen. Stelle.|
+| 6.1  | Spieler Nr.2 "AI" positioniert seine Schiffe             | ...        | Schiffe sind positioniert worden und Spieler Nr.1 kann diese nicht sehen.                  |
+| 6.2  | Spieler Nr.2 "AI" positioniert seine Schiffe             | ...        | Schiffe werden zufällig positioniert und Spieler Nr.1 kann diese nicht sehen.        |         
+| 6.3  | Spieler Nr.2 "AI" positioniert seine Schiffe             | ...        | Schiffe werden zufällig positioniert (nicht gleich wie vorher) und Spieler Nr.1 kann diese nicht sehen.                  |
 | 7.1  |              |         |                   |
 | 7.2  |              |         |                   |
 | 7.3  |              |         |                   |
