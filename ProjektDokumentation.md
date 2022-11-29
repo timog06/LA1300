@@ -144,3 +144,6 @@ Wir haben uns schnell entschieden ein Schiffe versenken Spiel zu machen mit der 
 ## 6 Auswerten
 
 ✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+
+
+Agachan ist lost.
