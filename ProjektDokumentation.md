@@ -83,9 +83,9 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 3.A  |06.12.2022|A. Atputharasa| Fehlerhafte Eingaben beheben, ohne dass das Spiel abstürzt           | 30'         |
 | 3.B  |06.12.2022|A. Atputharasa| Fehlerhafte Eingaben beheben, ohne dass das Spiel abstürzt              | 30'         |
 | 3.C  |06.12.2022|A. Atputharasa| Fehlerhafte Eingaben beheben, ohne dass das Spiel abstürzt              | 30'         |
-| 4.A  |06.12.2022|R. Willi|                   |          |
-| 4.B  |06.12.2022|R. Willi|                   |          |
-| 4.C  |06.12.2022|R. Willi|                   |          |
+| 4.A  |06.12.2022|R. Willi| Feld wird nach beschuss abgekreuzt.   | 50'         |
+| 4.B  |06.12.2022|R. Willi|Bereits Abgeschossene Felder bleiben Farbig  wenn ein weiter hinzukommt  |   60'     |
+| 4.C  |06.12.2022|R. Willi|Meldung beim Wiederholten abschiessen des Feldes                   |   60'       |
 | 5.A  |06.12.2022|T. Evans| Positionsbestimmung der angegebenen Schüsse des Spielers erstellen.                  | 45' |
 | 5.B  |06.12.2022|T. Evans| Angeschossener Punkt muss markiert werden.                  |20' |
 | 5.C  |06.12.2022|T. Evans| Angeschossene Punkte der Schiffe müssen fortlaufend während des Spieles angezeigt werden.                  | 40'         |
@@ -95,9 +95,9 @@ In unserem Projekt geht es um das Kindheitsspiel-Spiel "Schiffe versenken".
 | 7.A  |06.12.2022|A. Atputharasa| Eine Meldung geben, wenn der Benutzer verloren oder gewonnen hat          | 10'        |
 | 7.B  |06.12.2022|A. Atputharasa| Eine Runde starten, wenn der Benutezer es will              | 60'         |
 | 7.C  |06.12.2022|A. Atputharasa| Das Spiel beenden, wenn der Benutezer es will             |   60'       |
-| 8.A  |06.12.2022|R. Willi|                   |          |
-| 8.B  |06.12.2022|R. Willi|                   |          |
-| 8.C  |06.12.2022|R. Willi|                   |          |
+| 8.A  |06.12.2022|R. Willi| Wasser Felder werden blau gefärbt                  |   30'       |
+| 8.B  |06.12.2022|R. Willi| Felder eines getroffenen Schiffs werden grün gefärbt     | 30'         |
+| 8.C  |06.12.2022|R. Willi| Versunkene Schiffe werden rot gefärbt                   |    75      |
 | 9.A  |06.12.2022|T. Goedertier|Punktesystem erstellen und Punkte addieren bei Treffer|90'|
 | 9.B  |06.12.2022|T. Goedertier|Keine veränderungen im Punktestand bei Fehlschüsse|20'|
 | 9.C  |06.12.2022|T. Goedertier|Punkte subtraktion bei Treffern vom Gegner|60'|
