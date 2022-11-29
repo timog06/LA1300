@@ -19,7 +19,8 @@ namespace LA1300
 
         private void LoadStart(object sender, EventArgs e)
         {
-
+            StartScreen goBack = new StartScreen();
+            goBack.Show();
             this.Hide();
         }
     }
