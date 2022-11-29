@@ -4,8 +4,9 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|22.11.2022|0.0.1 |Wir haben heute die User Stories erstellt und zugeteilt. |
-|       | ...     |                                                              |
+|22.11.2022|0.0.1 |Wir haben heute die User Stories erstellt und zugeteilt.      |
+|29.11.2022|0.0.2 |Wir haben die Grundlagen für das Programm erstellt            |
+|06.12.2022|      |                                                              |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
