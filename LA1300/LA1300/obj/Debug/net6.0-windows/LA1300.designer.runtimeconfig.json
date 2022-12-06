@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\timog\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\timog\\.nuget\\packages"
+      "C:\\Users\\trist\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\trist\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

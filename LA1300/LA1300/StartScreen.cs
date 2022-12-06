@@ -39,6 +39,9 @@ namespace LA1300
             this.Close();
         }
 
-        
+        private void StartScreen_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
