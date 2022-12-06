@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\timog\\.nuget\\packages\\": {}
+    "C:\\Users\\trist\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\timog\\source\\repos\\LA1300\\LA1300\\LA1300.csproj",
+      "projectUniqueName": "C:\\Users\\trist\\OneDrive\\Dokumente\\GitHub\\LA1300\\LA1300\\LA1300\\LA1300.csproj",
       "projectName": "LA1300",
-      "projectPath": "C:\\Users\\timog\\source\\repos\\LA1300\\LA1300\\LA1300.csproj",
-      "packagesPath": "C:\\Users\\timog\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\timog\\source\\repos\\LA1300\\LA1300\\obj\\",
+      "projectPath": "C:\\Users\\trist\\OneDrive\\Dokumente\\GitHub\\LA1300\\LA1300\\LA1300\\LA1300.csproj",
+      "packagesPath": "C:\\Users\\trist\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\trist\\OneDrive\\Dokumente\\GitHub\\LA1300\\LA1300\\LA1300\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\timog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\trist\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows"
+        "net6.0-windows7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -51,8 +51,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -64,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
