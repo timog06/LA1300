@@ -6,7 +6,8 @@
 | ----- | ------- | ------------------------------------------------------------ |
 |22.11.2022|0.0.1 |Wir haben heute die User Stories erstellt und zugeteilt.      |
 |29.11.2022|0.0.2 |Wir haben die Grundlagen für das Programm erstellt            |
-|06.12.2022|      |                                                              |
+|06.12.2022|0.0.3 |Wir haben am Projekt weitergearbeitet.                        |
+|20.12.2022|0.0.4 |                                                              |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
