@@ -14,7 +14,8 @@ Wir haben gelernt Fenster zu öffnen und zu schliessen mit WinForms C#.
 ![74xfyz](https://user-images.githubusercontent.com/110893594/208612968-297f7ffd-c2ed-46eb-9b91-96547cecfeb4.gif)
 
 In diesem gif kann man sehen, was wir genau meinten: Man muss zuerst bei der ersten Fenster eine Taste drücken (hier: Start Game), um dann Form2 zu öffnen. Um zurückzugehen, macht man genau das Gleiche.
-
+Textliche Beschreibung:
+Wir haben uns zunächst mit der Struktur von Windows Forms auseinandergesetzt und verstanden, wie man Steuerelemente wie Buttons, Labels und Textboxen hinzufügt und anordnet. Anschliessend haben wir das Spielfeld für das Battleship-Spiel gestaltet und die benötigten Funktionalitäten implementiert, wie zum Beispiel das Setzen von Schiffen und das Abfeuern von Schüssen.
 
 ## Verifikation
 
