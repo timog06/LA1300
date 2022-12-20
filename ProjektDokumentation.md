@@ -1,6 +1,6 @@
 # Projekt-Dokumentation
 
-## Popcorn || Lai, Willi, Evans, Atputharasa, Goedertier
+## Popcorn Lai, Willi, Evans, Atputharasa, Goedertier
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
