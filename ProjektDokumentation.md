@@ -152,10 +152,38 @@ Wir haben uns schnell entschieden ein Schiffe versenken Spiel zu machen mit der 
 
 ### 5.1 Testprotokoll
 
-| TC-№ | Datum | Resultat | Tester |
+| TC-№ | Datum | Resultat | Tester | 
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 20.12.2022 | Ok  |Rebecca Willi | 
+| 1.2  | 20.12.2022 |  -  |Rebecca Willi | 
+| 1.3  | 20.12.2022 | Ok  |Rebecca Willi |  
+| 2.1  | 20.12.2022 | Ok  | Rebecca Willi|  
+| 2.2  | 20.12.2022 | Ok  | Rebecca Willi| 
+| 2.3  | 20.12.2022 | Ok  | Rebecca Willi|
+| 3.1  | 20.12.2022 |-    | Rebecca Willi|
+| 3.2  | 20.12.2022 | -   | Rebecca Willi|
+| 3.3  | 20.12.2022 | Ok  | Rebecca Willi| 
+| 4.1  | 20.12.2022 | Ok  | Rebecca Willi|
+| 4.2  | 20.12.2022 | Ok  | Rebecca Willi| 
+| 4.3  | 20.12.2022 | Ok  | Rebecca Willi|
+| 5.1  | 20.12.2022 | Ok  | Rebecca Willi| 
+| 5.2  | 20.12.2022 | Ok  | Rebecca Willi| 
+| 5.3  | 20.12.2022 | Ok  | Rebecca Willi|
+| 6.1  | 20.12.2022 | Ok  | Rebecca Willi|
+| 6.2  | 20.12.2022 | Ok  | Rebecca Willi| 
+| 6.3  | 20.12.2022 | Ok  | Rebecca Willi| 
+| 7.1  | 20.12.2022 | Ok  | Rebecca Willi|
+| 7.2  | 20.12.2022 | Ok  | Rebecca Willi|
+| 7.3  | 20.12.2022 | Nok | Rebecca Willi|
+| 8.1  | 20.12.2022 | Nok | Rebecca Willi|
+| 8.2  | 20.12.2022 | Nok | Rebecca Willi|
+| 8.3  | 20.12.2022 | Nok | Rebecca Willi|
+| 9.1  | 20.12.2022 |  -  | Rebecca Willi| 
+| 9.2  | 20.12.2022 |  -  | Rebecca Willi|
+| 9.3  | 20.12.2022 |  -  | Rebecca Willi|
+| 10.1 | 20.12.2022 |  -  | Rebecca Willi|
+| 10.2 | 20.12.2022 |  -  | Rebecca Willi|
+| 10.3.| 20.12.2022 |  -  | Rebecca Willi|
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
