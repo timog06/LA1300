@@ -17,7 +17,7 @@ In diesem gif kann man sehen, was wir genau meinten: Man muss zuerst bei der ers
 
 Textliche Beschreibung:
 
-Wir haben uns zunächst mit der Struktur von Windows Forms auseinandergesetzt und verstanden, wie man Steuerelemente wie Buttons, Labels und Textboxen hinzufügt und anordnet. Anschliessend haben wir das Spielfeld für das Battleship-Spiel gestaltet und die benötigten Funktionalitäten implementiert, wie zum Beispiel das Setzen von Schiffen und das Abfeuern von Schüssen.
+Wir haben uns zunächst mit der Struktur von Windows Forms auseinandergesetzt und verstanden, wie man Steuerelemente wie Buttons, Labels und Textboxen hinzufügt und anordnet, um eine Benutzeroberfläche zu erstellen. Dazu haben wir die Toolbox und den Designer in Visual Studio genutzt und uns verschiedene Beispiele angeschaut, um die Möglichkeiten von Windows Forms kennenzulernen. Anschliessend haben wir das Spielfeld für das Battleship-Spiel gestaltet und die benötigten Funktionalitäten implementiert, wie zum Beispiel das Setzen von Schiffen und das Abfeuern von Schüssen. Dabei haben wir auf Event-Handler und Eigenschaften von Steuerelementen zurückgegriffen, um die gewünschten Funktionen zu realisieren.
 
 ## Verifikation
 
