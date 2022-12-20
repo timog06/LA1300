@@ -11,9 +11,6 @@ Wir haben gelernt Fenster zu öffnen und zu schliessen mit WinForms C#.
 
 ## Beschreibung
 
-* Eine textliche Beschreibung - Agachan
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme - Tristan // Ein Codefetzen
-
 ![74xfyz](https://user-images.githubusercontent.com/110893594/208612968-297f7ffd-c2ed-46eb-9b91-96547cecfeb4.gif)
 
 In diesem gif kann man sehen, was wir genau meinten: Man muss zuerst bei der ersten Fenster eine Taste drücken (hier: Start Game), um dann Form2 zu öffnen. Um zurückzugehen, macht man genau das Gleiche.
