@@ -149,8 +149,6 @@ Wir haben uns schnell entschieden ein Schiffe versenken Spiel zu machen mit der 
 | 10.B |06.12.2022|T. Goedertier|75'|45'|
 | 10.C |06.12.2022|T. Goedertier|30'|20'|
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
-
 ## 5 Kontrollieren
 
 ### 5.1 Testprotokoll
