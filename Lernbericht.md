@@ -1,22 +1,21 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Popcorn : Lorenzo Lai, Tristan Evans, Rebecca Willi, Agachan Athputherasa. Timo Goedertier
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+In unserem Projekt geht es um das Kindheitsspiel "Schiffe versenken".
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Wir haben gelernt Fenster zu öffnen und zu schliessen mit WinForms C#.
 
 ## Beschreibung
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+* Eine textliche Beschreibung - Agachan
+* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme - Tristan
+* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif` - Lorenzo
 
 ## Verifikation
 
