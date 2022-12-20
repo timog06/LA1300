@@ -7,7 +7,7 @@
 |22.11.2022|0.0.1 |Wir haben heute die User Stories erstellt und zugeteilt.      |
 |29.11.2022|0.0.2 |Wir haben die Grundlagen für das Programm erstellt            |
 |06.12.2022|0.0.3 |Wir haben am Projekt weitergearbeitet.                        |
-|20.12.2022|0.0.4 |                                                              |
+|20.12.2022|0.0.4 |Wir haben vorhandene Fehler im Code behoben.                  |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -133,15 +133,6 @@ Wir haben uns schnell entschieden ein Schiffe versenken Spiel zu machen mit der 
 | ...  |       |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
