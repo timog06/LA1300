@@ -19,6 +19,21 @@ Textliche Beschreibung:
 
 Wir haben uns zunächst mit der Struktur von Windows Forms auseinandergesetzt und verstanden, wie man Steuerelemente wie Buttons, Labels und Textboxen hinzufügt und anordnet. Anschliessend haben wir das Spielfeld für das Battleship-Spiel gestaltet und die benötigten Funktionalitäten implementiert, wie zum Beispiel das Setzen von Schiffen und das Abfeuern von Schüssen.
 
+
+
+### Beschreibung eines Code-Fetzens:
+
+![grafik](https://user-images.githubusercontent.com/110893008/208622002-47bb82d0-3bde-4e8b-b85b-99a61bca5ff3.png)
+
+In diesem Beispiel werden drei Methoden namens «LoadGame, LoadHelp und QuitApplication» definiert, die jeweils das Öffnen und Schließen von Fenstern in einer Winforms-Anwendung steuern.
+
+Die LoadGame-Methode öffnet das Fenster "inGameScreen" und versteckt das aktuelle Fenster mit «this.Hide». Die LoadHelp-Methode öffnet dann das Fenster "inHelpScreen". Die QuitApplication-Methode schließt das aktuelle Fenster «this.Close».
+
+Diese Methoden werden als Event-Handler verwendet, um auf bestimmte Benutzeraktionen zu reagieren, z.B. wie auf das Klicken einer Schaltfläche. In diesem Code-Beispiel wird die Methode namens «QuitApplication» definiert, die als Event-Handler verwendet werden kann, um das aktuelle Fenster (this) zu schließen.
+
+«QuitApplication» funktioniert in diesem Fall, dass das ganze Programm geschlossen wird, aber um ein Fenster sonst im Programm einzeln zu schliessen, braucht man die Methode btnClose_Click in diesem Fall. Diese Methode referenziert das Klicken des schliessen Buttons, welches dann das Fenster durch "this.Hide()" schliesst.
+
+
 ## Verifikation
 
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
