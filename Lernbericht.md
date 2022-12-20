@@ -13,10 +13,8 @@
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+Textliche Beschreibung:
+Wir haben uns zunächst mit der Struktur von Windows Forms auseinandergesetzt und verstanden, wie man Steuerelemente wie Buttons, Labels und Textboxen hinzufügt und anordnet. Anschliessend haben wir das Spielfeld für das Battleship-Spiel gestaltet und die benötigten Funktionalitäten implementiert, wie zum Beispiel das Setzen von Schiffen und das Abfeuern von Schüssen.
 
 ## Verifikation
 
