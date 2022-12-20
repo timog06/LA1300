@@ -23,8 +23,8 @@ Wir haben gelernt Fenster zu öffnen und zu schliessen mit WinForms C#.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Wir haben uns schnell gefunden und geeinigt, was unser Projekt sein sollte. Wir haben am Anfang allen einen Teil des Projekts zugeteilt, aber weil nicht alle von anfang an arbeiten konnten, haben wir uns gegenseitig geholfen.
 
-👎 und etwas, was nicht gut lief.
+Es war schwierig das Projekt ins laufen zu bringen, weil wir am Anfang nichts über WinForms gewusst haben.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Von Anfang an gut informieren, um herauszufinden was man machen soll und kann. Vorallem wichtig bei neuen Arten des programmieren, wie jetzt WinForms.
