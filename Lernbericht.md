@@ -11,8 +11,6 @@ Wir haben gelernt Fenster zu öffnen und zu schliessen mit WinForms C#.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
-
 * Eine textliche Beschreibung - Agachan
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme - Tristan // Ein Codefetzen
 
