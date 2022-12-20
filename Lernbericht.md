@@ -36,7 +36,7 @@ Diese Methoden werden als Event-Handler verwendet, um auf bestimmte Benutzerakti
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Im ersten Medium sieht man, was der Codefetzen vom dritten Medium macht und im zweiten Medium ist die Erklärung zu unserem Vorgang, wie wir gelernt haben.
 
 # Reflektion zum Arbeitsprozess
 
