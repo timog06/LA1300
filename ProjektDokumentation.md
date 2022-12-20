@@ -117,9 +117,37 @@ Wir haben uns schnell entschieden ein Schiffe versenken Spiel zu machen mit der 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| ---- | ----- | --------- | ------------ | ------------- |
+| 1.A  |06.12.2022|T. Evans|5' |10'|
+| 1.B  |06.12.2022|T. Evans|15'   |20'      |
+| 1.C  |06.12.2022|T. Evans|45'    |30'      |
+| 2.A  |06.12.2022|L. Lai  |   30' - 60'|45'       |
+| 2.B  |06.12.2022|L. Lai  |  30' - 60'     |45'   |
+| 2.C  |06.12.2022|L. Lai  | 30' - 60'    | 45'    |
+| 3.A  |06.12.2022|A. Atputharasa| 30'     |45'    |
+| 3.B  |06.12.2022|A. Atputharasa|30'       |45'  |
+| 3.C  |06.12.2022|A. Atputharasa| 30'       |45'  |
+| 4.A  |06.12.2022|R. Willi| 50'     |45'    |
+| 4.B  |06.12.2022|R. Willi|60'   |45'  |
+| 4.C  |06.12.2022|R. Willi|   60'    |45'   |
+| 5.A  |06.12.2022|T. Evans|45' |30'|
+| 5.B  |06.12.2022|T. Evans|20' |30'|
+| 5.C  |06.12.2022|T. Evans| 40'    |45'     |
+| 6.A  |06.12.2022|L. Lai  | 30'        |45' |
+| 6.B  |06.12.2022|L. Lai  | 30'         |20'|
+| 6.C  |06.12.2022|L. Lai  | 30'       |45'|
+| 7.A  |06.12.2022|A. Atputharasa|  10'    |15'    |
+| 7.B  |06.12.2022|A. Atputharasa|  60'        |50' |
+| 7.C  |06.12.2022|A. Atputharasa|    60'      |60' |
+| 8.A  |06.12.2022|R. Willi|   30'       |20'|
+| 8.B  |06.12.2022|R. Willi|   45'  | 30'       |30'  |
+| 8.C  |06.12.2022|R. Willi| 75'      |80'|
+| 9.A  |06.12.2022|T. Goedertier|90'|75'|
+| 9.B  |06.12.2022|T. Goedertier|20'|10'|
+| 9.C  |06.12.2022|T. Goedertier|60'|45'|
+| 10.A |06.12.2022|T. Goedertier|120'|90'|
+| 10.B |06.12.2022|T. Goedertier|75'|45'|
+| 10.C |06.12.2022|T. Goedertier|30'|20'|
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
